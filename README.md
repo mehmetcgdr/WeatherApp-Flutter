@@ -11,6 +11,9 @@ Location erişimi için GeoLocator plugin'ini kullandım. Kullanımı için pub.
 
 
 
+
+
+
 Hello
 
 While making this application, I learned how to use the API and how to 'get' data from the API.
