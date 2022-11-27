@@ -7,12 +7,9 @@ Bu uygulamayı yaparken API kullanımını, API'den verileri 'get' etmeyi öğre
 Uygulamada api servisi olarak https://www.weatherapi.com/ servisini kullandım. 
 
 Location erişimi için GeoLocator plugin'ini kullandım. Kullanımı için pub.dev sitesine bakmanız yeterlidir.
-
-
-
-
-
-
+<hr/>
+<hr/>
+<hr/>
 
 Hello
 
